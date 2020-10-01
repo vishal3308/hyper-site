@@ -1,6 +1,6 @@
 # hyper-site
 
-The official website for the Hyper terminal
+The official website for the Hyper terminal plese visit here
 
 ## Contribution
 
@@ -8,7 +8,7 @@ Want to submit a plugin or theme to the Hyper Store? Follow [the guide on the we
 
 To submit a feature, bug fix, or enhancement to the Hyper website proceed as follows:
 
-1. Clone this repo
+1. Clone this repository.
 2. Within your terminal, run `yarn` to install the dependencies
 3. Once the dependencies are installed, run `yarn dev` to start the dev server on `localhost:3000`
 
